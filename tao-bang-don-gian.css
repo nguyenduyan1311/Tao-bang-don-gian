@@ -1,0 +1,28 @@
+div{
+    display: grid;
+    margin: 10% 23%;
+}
+h1{
+    text-align: center;
+    font-family: "Arial";
+    color: blue; /*dodgerblue*/
+}
+table#table,th,td {
+    width: auto;
+    border: 2px solid dimgray;
+    border-collapse: collapse;
+    padding: 5px;
+}
+.info{
+    font-size: 17px;
+    color: blue;
+    border: none;
+    font-family: Arial;
+    padding: 1px 0;
+}
+th{
+    background-color: yellow;
+}
+.row2{
+    background-color: orange;
+}
